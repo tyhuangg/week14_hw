@@ -1,0 +1,14 @@
+/*#table tr{
+	border: darkred;
+  	background-color: #9FE2BF;
+}
+#table td{
+	border: orangered;
+	width: 100px;
+	background-color: #40E0D0;
+}*/
+
+table, tr, td {
+ 	border: darkred;
+  	background-color: #9FE2BF;
+}
